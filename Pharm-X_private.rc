@@ -1,0 +1,36 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+A ICON "Pharm-X.ico"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "042004E4"
+    {
+      VALUE "CompanyName", "Muneeb-529,Daniyal-589"
+      VALUE "FileVersion", "1.0.0.0"
+      VALUE "FileDescription", "Govt. College Of Science Wahdat Road Lahore."
+      VALUE "InternalName", "Project 3rd Semester"
+      VALUE "LegalCopyright", "Bs-IT G1 GCS (Muhammad Munee-529)."
+      VALUE "LegalTrademarks", "Trade Marks by Daniyal Asad-589."
+      VALUE "OriginalFilename", "Project 3rd Semester."
+      VALUE "ProductName", "Pharm-X"
+      VALUE "ProductVersion", "1.0.0.0"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0420, 1252
+  }
+}

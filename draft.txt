@@ -1,0 +1,25 @@
+/*
+		ifstream in1("emp.data",ios::binary);
+		i=0;
+		while(!in1.eof()){
+		in1.read((char*)&emp[i], sizeof(emp[i]));
+		i++;
+		}
+		in.close();
+		
+		ifstream in2("med.data",ios::binary);
+		i=0;
+		while(!in2.eof()){
+		in2.read((char*)&med[i], sizeof(med[i]));
+		i++;
+		}
+		in.close();
+		
+		ifstream in3("men.data",ios::binary);
+		i=0;
+		while(!in3.eof()){
+		in3.read((char*)&men[i], sizeof(men[i]));
+		i++;
+		}
+		in.close();
+		*/

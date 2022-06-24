@@ -1,0 +1,62 @@
+[Project]
+FileName=Pharm-X.dev
+Name=Pharm-X
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Pharm-X_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=1
+Icon=Pharm-X.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Pharm-X.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000000
+UnitCount=1
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1056
+CharsetID=1252
+CompanyName=Muneeb-529,Daniyal-589
+FileVersion=1.0.0.0
+FileDescription=Govt. College Of Science Wahdat Road Lahore.
+InternalName=Project 3rd Semester
+LegalCopyright=Bs-IT G1 GCS (Muhammad Munee-529).
+LegalTrademarks=Trade Marks by Daniyal Asad-589.
+OriginalFilename=Project 3rd Semester.
+ProductName=Pharm-X
+ProductVersion=1.0.0.0
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=Pharm-X.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+

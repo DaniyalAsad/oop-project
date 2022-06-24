@@ -1,0 +1,18 @@
+******************************************************
+*                ADMIN PANNEL                        *
+******************************************************
+
+
+
+******************************************************
+*                        ***                         *
+* 1- view system Logs    *** A- Lookup A Medicine    *
+* 2- Add New Medicine    *** B- Lookup A Employe     *
+* 3- Add New Employe     *** C- Lookup A Manufectur  *
+* 4- Add Manufectur      *** D- List Low Stock.      *
+* 5- Remove Medicine     *** E- Stock Up Medicine    *
+* 6- Remove Employe      *** F- List All Medicine    *
+* 7- Remove Manufectur   *** 8- Change Admin Pass.   *	
+*                 9- Logout AS Admin                 *
+******************************************************
+
