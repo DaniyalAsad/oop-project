@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/DaniyalAsad/oop-project/blob/master/Pharm-X.cpp) and ![Image](file:///C:/Users/LENOVO/Desktop/b3c73e1cfd8cef0396421880538ecccc.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
